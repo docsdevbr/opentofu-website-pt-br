@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved to Codeberg.**<br/>
+> Development, issues, and pull requests are now tracked at
+> **[docsdev/opentofu-website-pt-br](https://codeberg.org/docsdev/opentofu-website-pt-br)**.
+
 # [opentofu-website-pt-br][page]
 
 [![README file in English][badge-readme-en]][readme-en]
